@@ -2,3 +2,5 @@ Sample File
 Making changes to check
 Editing from repository to check
 Editing again to check again
+
+Editing from local
